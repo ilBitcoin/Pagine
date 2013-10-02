@@ -55,7 +55,7 @@ L'infrastruttura Bitcoin, decentralizzata e non controllabile da nessuno, fa
 infatti uso di tecniche crittografiche che sono finora risultate inviolabili, e
 che verranno in futuro aggiornate nel caso in cui dovessero risultare a rischio.
   
-![bitcoin  - new super hero currency](
+![Supereroe col logo Bitcoin](
 http://www.ilbitcoin.com/wp-content/uploads/2013/04/bitcoin_logo_omino.jpg)
 
 La domanda nasce quindi spontanea: Bitcoin potrà aiutarci a superare l'attuale
