@@ -33,6 +33,7 @@ ancora più importanti rispetto a quelli finora menzionati:
 * guadagni maggiori per i commercianti che possono finalmente evitare alcune
   voci relative al costo di gestione della propria attività (come quelli
   relativi alle spese di transazione)
+* transazioni definitive: i negozianti non devono più temere futuri chargeback
 * probabile aumento di valore della moneta nel tempo dovuto alla natura
   deflativa di Bitcoin
 * tempi di transazione notevolmente ridotti rispetto a sistemi di trasferimento
