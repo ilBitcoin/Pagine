@@ -2,8 +2,8 @@ Il Bitcoin è una cripto-valuta globale. Le monete virtuali sono presenti ormai
 da parecchi anni nella nostra vita, ma questa differisce dalle altre per una
 serie di particolari non certo irrilevanti:
 
-![Monete col logo Bitcoin]
-(http://www.ilbitcoin.com/wp-content/uploads/2013/04/bitcoin1.jpg)
+![Monete col logo Bitcoin](
+http://www.ilbitcoin.com/wp-content/uploads/2013/04/bitcoin1.jpg)
 
 * assenza di una autorità centrale come ad esempio la BCE per l'euro e la Fed
   per il dollaro
@@ -55,8 +55,8 @@ L'infrastruttura Bitcoin, decentralizzata e non controllabile da nessuno, fa
 infatti uso di tecniche crittografiche che sono finora risultate inviolabili, e
 che verranno in futuro aggiornate nel caso in cui dovessero risultare a rischio.
   
-![bitcoin  - new super hero currency]
-(http://www.ilbitcoin.com/wp-content/uploads/2013/04/bitcoin_logo_omino.jpg)
+![bitcoin  - new super hero currency](
+http://www.ilbitcoin.com/wp-content/uploads/2013/04/bitcoin_logo_omino.jpg)
 
 La domanda nasce quindi spontanea: Bitcoin potrà aiutarci a superare l'attuale
 crisi economica mondiale? Ce lo auguriamo.
