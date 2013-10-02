@@ -40,23 +40,19 @@ ancora più importanti rispetto a quelli finora menzionati:
   di denaro gestiti da enti di mediazione
 
 La nuova moneta poi offre delle possibilità d'impiego e delle garanzie non
-previste dalle altre valute. Nello specifico sarà possibile infatti:
+previste dalle altre valute:
 
-* avviare transazioni internazionali il cui importo non superi il centesimo di
-  euro
-* dare vita ad un mercato virtuale che non abbia necessità di essere supportato
-  da alcun tipo di servizio a pagamento
-* operare basandosi su una moneta che, in virtù dei principi di regolamentazione
-  su cui poggia le sue fondamenta (ossia la non controllabilità da parte delle
-  istituzioni), garantisce l'impossibilità di essere soggetta ad inflazione e
-  svalutazione
-* per le stesse ragioni esposte nel punto precedente, le autorità sono
-  impossibilitate a confiscare il denaro contenuto sui conti Bitcoin dei
-  risparmiatori
-* garanzia di non incorrere in monete falsificate; l'infrastruttura Bitcoin fa
-  infatti uso di tecniche crittografiche che sono finora risultate inviolabili,
-  e che verranno in futuro aggiornate nel caso in cui dovessero risultare a
-  rischio
+* transazioni internazionali il cui importo non superi il centesimo di euro
+* un mercato virtuale che non abbia necessità di essere supportato da alcun tipo
+  di servizio a pagamento
+* impossibilità di essere soggetta ad inflazione e svalutazione
+* la confisca di denaro dai conti Bitcoin dei risparmiatori è tecnicamente
+  impossibile
+* garanzia di non incorrere in monete falsificate
+
+L'infrastruttura Bitcoin, decentralizzata e non controllabile da nessuno, fa
+infatti uso di tecniche crittografiche che sono finora risultate inviolabili, e
+che verranno in futuro aggiornate nel caso in cui dovessero risultare a rischio.
   
 ![bitcoin  - new super hero currency](http://www.ilbitcoin.com/wp-content/uploads/2013/04/bitcoin_logo_omino.jpg)
 
